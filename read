@@ -1,0 +1,33 @@
+Features of JavaScript
+
+1. Manipulation of Document Object Model –
+   The ability to manipulate the Dom is one of the core of Javascript. With Javascript, you can easily update HTML pages and make them respond dynamically.
+
+Relevance tutorial: Introduction to HTML
+
+2. Support frontend and backend development –  
+   JavaScript utilizes libraries like React, Angular, JQuery, and Nodejs to build both the client side and server side of any Application. This implies that with only JavaScript you can become a full-stack developer.
+
+3. Object-oriented programming – #
+   Javascript is an object-oriented language, meaning, we can create reusable code through the use of objects and classes
+
+4. Event-driven programming –
+   Event-driven is one of the rich features of Javascript, With JS event-driven we can create dynamic web applications that respond to user events. Examples: clicks event, scrolls events, and form events
+
+5. Arrow functions –
+   Arrow functions are a new way of creating a function in Js. introduced in Javascript ES6
+
+6. Destructuring –
+   Destructuring is an easy way to extract values from an array and object, thereby making your code easier to read.
+
+7. Modules –
+   Modules are techniques in JS that are used to organize code into separate files for code readability and maintainability
+
+8. Template literals
+   Template literals are another ES6 feature used for creating string templates with a placeholder for dynamic data
+
+9. Asynchronous programming
+   Asynchronous programming is a none blocking mode of code execution that makes client-server communication seamless without delay
+
+10. Promises
+    Promises are built-in JS features that allow for asynchronous operations in a more structured and predictable way.
